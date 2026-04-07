@@ -131,27 +131,30 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 
 ---
 
-<!-- 🌊 PREMIUM FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
-</p>
+<!-- 🔥 PREMIUM FOOTER (CONTENT INSIDE FEEL) -->
+<div align="center">
 
-<p align="center">
-  <b>⚡ Building Scalable Systems | 🚀 Backend Engineer | 💡 Problem Solver</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=footer&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/btwitsdksh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/btwitsdksh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:daksharora1207@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br><br>
 
-<p align="center">
-  💙 Thanks for visiting my profile — let’s build something impactful together!
-</p>
+<!-- Content overlay feel -->
+<b>⚡ Building Scalable Systems | 🚀 Backend Engineer | 💡 Problem Solver</b>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/btwitsdksh">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/btwitsdksh">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:daksharora1207@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+💙 <i>Thanks for visiting — let's build something impactful together!</i>
+
+</div>
