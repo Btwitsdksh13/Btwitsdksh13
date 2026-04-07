@@ -116,22 +116,6 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Btwitsdksh13&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
-</p>
-
----
-
-## 🔝 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Btwitsdksh13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ## 🐍 Contribution Activity
 
 <p align="center">
