@@ -101,22 +101,41 @@ A single backend or SEO tweak can impact **thousands of users** — that's what 
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Btwitsdksh13&theme=tokyonight&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Btwitsdksh13&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsdksh13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsdksh13&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Btwitsdksh13&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Btwitsdksh13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
-### 🔝 Top Contributed Repositories
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Btwitsdksh13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Btwitsdksh13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Btwitsdksh13&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Btwitsdksh13&icon=5&color=6" />
+</p>
 
 ## 💰 Support Me / Donate
 
