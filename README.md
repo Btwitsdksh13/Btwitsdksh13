@@ -138,10 +138,12 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 
 <br><br>
 
-<!-- Content overlay feel -->
-<b>⚡ Building Scalable Systems | 🚀 Backend Engineer | 💡 Problem Solver</b>
+<div align="center">
 
-<br><br>
+### ⚡ Building Scalable Systems  
+#### 🚀 Backend Engineer • 💡 Problem Solver
+
+<br>
 
 <a href="https://www.linkedin.com/in/btwitsdksh">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -155,6 +157,10 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 
 <br><br>
 
-💙 <i>Thanks for visiting — let's build something impactful together!</i>
+💙 <sub><i>Thanks for visiting — let's build something impactful together!</i></sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
