@@ -1,6 +1,6 @@
-<!-- 🔥 HEADER (SMOOTH ANIMATION) -->
+<!-- 🔥 PREMIUM SQUARE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Daksh%20Arora&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0A2540,100:1f6feb&height=200&section=header&text=Daksh%20Arora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -146,7 +146,7 @@ A single backend or SEO tweak can impact *thousands of users* — that's what ma
 
 ---
 
-## 🐍 Contribution Snake (PRO LOOK)
+## 🐍 Contribution Snake (PRO DARK)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Btwitsdksh13/Btwitsdksh13/output/github-contribution-grid-snake-dark.svg" />
@@ -168,7 +168,7 @@ A single backend or SEO tweak can impact *thousands of users* — that's what ma
 
 ---
 
-<!-- 🔥 FOOTER -->
+<!-- 🔥 PREMIUM FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:58a6ff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:0A2540,100:0D1117&height=120&section=footer" />
 </p>
