@@ -1,10 +1,10 @@
-<!-- 🔥 PREMIUM GOLD BLACK HEADER -->
+<!-- 🔥 HEADER (SMOOTH ANIMATION) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:FFD700&height=220&section=header&text=Daksh%20Arora&fontSize=45&fontColor=FFD700&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Daksh%20Arora&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FFD700&center=true&vCenter=true&width=700&lines=Spring+Boot+Developer;API+Engineer;Cloud+Learner;Backend+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;API+Engineer;Cloud+Learner;Backend+Focused" />
 </p>
 
 ---
@@ -59,73 +59,73 @@ A single backend or SEO tweak can impact *thousands of users* — that's what ma
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/btwitsdksh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/btwitsdksh)
-[![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:daksharora1207@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/btwitsdksh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/btwitsdksh)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daksharora1207@gmail.com)
 
 ---
 
 # 💻 Tech Stack
 
 ### 🚀 Languages
-![Java](https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=openjdk&logoColor=black)
-![C++](https://img.shields.io/badge/C++-FFD700?style=for-the-badge&logo=c%2B%2B&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
 
 ### ⚙️ Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-FFD700?style=for-the-badge&logo=spring&logoColor=black)
-![Spring Security](https://img.shields.io/badge/Spring_Security-FFD700?style=for-the-badge&logo=spring&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-FFD700?style=for-the-badge&logo=node.js&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-FFD700?style=for-the-badge&logo=fastapi&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ---
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-FFD700?style=for-the-badge&logo=angular&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-FFD700?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazon-aws&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-FFD700?style=for-the-badge&logo=google-cloud&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-FFD700?style=for-the-badge&logo=kubernetes&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/Postgres-FFD700?style=for-the-badge&logo=postgresql&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ### 🧪 Tools & Others
-![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FFD700?style=for-the-badge&logo=postman&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-FFD700?style=for-the-badge&logo=jenkins&logoColor=black)
-![Swagger](https://img.shields.io/badge/Swagger-FFD700?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FFD700"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Btwitsdksh13&theme=tokyonight&hide_border=true&ring=FFD700&fire=FFD700"/>
+  <img src="https://streak-stats.demolab.com?user=Btwitsdksh13&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsdksh13&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsdksh13&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -133,7 +133,7 @@ A single backend or SEO tweak can impact *thousands of users* — that's what ma
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Btwitsdksh13&theme=algolia&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Btwitsdksh13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -141,12 +141,12 @@ A single backend or SEO tweak can impact *thousands of users* — that's what ma
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Btwitsdksh13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Btwitsdksh13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (PRO LOOK)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Btwitsdksh13/Btwitsdksh13/output/github-contribution-grid-snake-dark.svg" />
@@ -157,18 +157,18 @@ A single backend or SEO tweak can impact *thousands of users* — that's what ma
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Btwitsdksh13&icon=5&color=12"/>
+  <img src="https://visitcount.itsvg.in/api?id=Btwitsdksh13&icon=5&color=6" />
 </p>
 
 ---
 
 ## 💰 Support Me / Donate
 
-[![PayPal](https://img.shields.io/badge/PayPal-FFD700?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/cadetdaksh-2@okaxis)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cadetdaksh-2@okaxis)
 
 ---
 
-<!-- 🔥 PREMIUM FOOTER -->
+<!-- 🔥 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:1a1a1a,100:000000&height=150&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:58a6ff&height=120&section=footer" />
 </p>
