@@ -104,18 +104,11 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 
 ---
 
-<h2 align="center">🐍 Contribution Activity</h2>
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Btwitsdksh13/Btwitsdksh13/output/github-contribution-grid-snake-dark.svg" />
 </p>
-## 📊 Developer Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Btwitsdksh13&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 
 <!-- 🌊 PREMIUM FOOTER -->
 <p align="center">
