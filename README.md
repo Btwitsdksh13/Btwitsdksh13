@@ -107,12 +107,15 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Btwitsdksh13/Btwitsdksh13/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/Btwitsdksh13/Btwitsdksh13/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>
 
 <p align="center">
-  <b>📈 Consistency beats motivation</b><br>
-  <sub>Every commit compounds. Every day counts.</sub>
+  <b>⚡ Consistency beats motivation</b>
+</p>
+
+<p align="center">
+  <sub>Building daily. Improving continuously.</sub>
 </p>
 
 ---
