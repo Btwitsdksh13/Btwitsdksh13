@@ -104,18 +104,6 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Btwitsdksh13&theme=tokyonight&hide_border=true&border_radius=10" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsdksh13&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-
----
-
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -129,6 +117,12 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Btwitsdksh13&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Btwitsdksh13&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ## 💰 Support Me
