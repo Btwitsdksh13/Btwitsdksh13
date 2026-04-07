@@ -1,3 +1,13 @@
+<!-- 🔥 FUTURISTIC HEADER ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+System+Design+Enthusiast;Scaling+Products+for+Thousands+of+Users;Spring+Boot+%7C+APIs+%7C+Cloud+%7C+SEO+🚀" />
+</p>
+
+<!-- 🌊 TOP WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+</p>
+
 # 💫 About Me:
 
 🔭 **I’M CURRENTLY WORKING ON**  
@@ -44,100 +54,126 @@ Backend-focused projects using **Java**, **Spring Boot**, and **System Design** 
 ⚡ **FUN FACT**  
 A single backend or SEO tweak can impact **thousands of users** — that's what makes building at scale truly exciting 🚀
 
+---
+
+<!-- 🔥 ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212897782-965815f5-5f8b-4bdb-b4a4-6f9c6c6b7b07.gif"/>
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/btwitsdksh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/btwitsdksh)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daksharora1207@gmail.com)
+<p align="center">
+  <a href="https://www.instagram.com/btwitsdksh">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/btwitsdksh">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="mailto:daksharora1207@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  </a>
+</p>
+
+---
 
 # 💻 Tech Stack
 
 ### 🚀 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
+</p>
 
 ---
 
 ### ⚙️ Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" />
+</p>
 
 ---
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind" />
+</p>
 
 ---
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
+</p>
 
 ---
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
 
 ---
 
 ### 🧪 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,jenkins" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
 
+---
+
+<!-- 🔥 ANIMATED LINE -->
+<img src="https://user-images.githubusercontent.com/74038190/212897919-6f0b7b63-0c3d-4c8d-9c5a-3b5f3f1c2d4f.gif"/>
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Btwitsdksh13&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Btwitsdksh13&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsdksh13&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsdksh13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Btwitsdksh13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Btwitsdksh13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
 </p>
 
 ---
 
-## 🔝 Top Contributed Repositories
-
+### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Btwitsdksh13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Btwitsdksh13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
 
-## 👀 Profile Views
+<!-- 🔥 SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://github.com/Btwitsdksh13/Btwitsdksh13/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Btwitsdksh13&icon=5&color=6" />
+<img src="https://visitcount.itsvg.in/api?id=Btwitsdksh13&icon=5&color=12"/>
 </p>
+
+---
 
 ## 💰 Support Me / Donate
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cadetdaksh-2@okaxis)
+<p align="center">
+<a href="https://paypal.me/cadetdaksh-2@okaxis">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+</a>
+</p>
 
+---
+
+<!-- 🌊 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+</p>
