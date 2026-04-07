@@ -48,10 +48,6 @@ Domains:
 - AWS (Cloud)  
 - System Design  
 
----
-
-💬 *Ask me about*  
-Backend systems • API optimization • SEO engineering • Scaling products  
 
 ---
 
