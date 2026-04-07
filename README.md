@@ -120,17 +120,6 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 </p>
 
 
-
-## 💰 Support Me
-
-<p align="center">
-  <a href="https://paypal.me/cadetdaksh-2@okaxis">
-    <img src="https://img.shields.io/badge/Support%20Me-PayPal-0A66C2?style=for-the-badge&logo=paypal&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <!-- 🌊 PREMIUM FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
