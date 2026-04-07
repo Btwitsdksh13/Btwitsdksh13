@@ -1,10 +1,10 @@
-<!-- 🔥 PREMIUM SQUARE HEADER -->
+<!-- 🔥 DYNAMIC HEADER (SMOOTH + PREMIUM) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0A2540,100:1f6feb&height=200&section=header&text=Daksh%20Arora&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Daksh%20Arora&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;API+Engineer;Cloud+Learner;Backend+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;API+Engineer;Cloud+Learner;Backend+Focused" />
 </p>
 
 ---
@@ -146,7 +146,7 @@ A single backend or SEO tweak can impact *thousands of users* — that's what ma
 
 ---
 
-## 🐍 Contribution Snake (PRO DARK)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Btwitsdksh13/Btwitsdksh13/output/github-contribution-grid-snake-dark.svg" />
@@ -168,7 +168,7 @@ A single backend or SEO tweak can impact *thousands of users* — that's what ma
 
 ---
 
-<!-- 🔥 PREMIUM FOOTER -->
+<!-- 🔥 DYNAMIC FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,50:0A2540,100:0D1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer" />
 </p>
