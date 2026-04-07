@@ -124,14 +124,6 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Btwitsdksh13&icon=5&color=6" />
-</p>
-
----
-
 ## 💰 Support Me
 
 <p align="center">
