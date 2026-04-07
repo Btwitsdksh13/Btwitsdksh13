@@ -15,13 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Snake (High Contrast UI)
+      - name: Generate Snake (Neon Purple UI)
         uses: Platane/snk@v3
         with:
           github_user_name: Btwitsdksh13
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FFD580&color_dots=#161b22,#0e4429,#006d32,#00c853,#39ff14
-            dist/github-contribution-grid-snake.svg?palette=github&color_snake=#ffb347
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A855F7&color_dots=#161b22,#2a0a3d,#6b21a8,#a855f7,#F472B6
+            dist/github-contribution-grid-snake.svg?palette=github&color_snake=#A855F7&color_dots=#ebedf0,#fbcfe8,#f472b6,#ec4899,#be185d
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
