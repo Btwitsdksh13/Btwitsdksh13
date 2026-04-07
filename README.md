@@ -35,13 +35,6 @@ Domains:
 
 ---
 
-🤝 *Looking for help with*  
-- Distributed Systems  
-- Scalable Architecture  
-- Production-grade backend practices  
-
----
-
 🌱 *Currently learning*  
 - Spring Security & Microservices  
 - Redis (Caching)  
