@@ -1,10 +1,10 @@
-<!-- HEADER -->
+<!-- HEADER (SMOOTH + CLEAN LIKE YOUR SCREENSHOT) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2563EB&height=200&section=header&text=Daksh%20Arora&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4F8EF7,50:6FA4FF,100:9EC5FF&height=180&section=header&text=Daksh%20Arora&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;API+Engineer;Cloud+Learner;Backend+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Spring+Boot+Developer;API+Engineer;Cloud+Learner;Backend+Focused" />
 </p>
 
 ---
@@ -24,9 +24,9 @@ Working on platforms like **Health Vault** and feature pages (Dermatology, Sexua
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7&icon_color=4F8EF7" height="170"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Btwitsdksh13&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Btwitsdksh13&theme=tokyonight&hide_border=true&background=0D1117&ring=4F8EF7&fire=4F8EF7" height="170"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ Working on platforms like **Health Vault** and feature pages (Dermatology, Sexua
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Btwitsdksh13&label=Profile%20Views&color=0A66C2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Btwitsdksh13&label=Profile%20Views&color=4F8EF7&style=flat" />
 </p>
 
 ---
@@ -67,13 +67,13 @@ Working on platforms like **Health Vault** and feature pages (Dermatology, Sexua
 
 <p align="center">
   <a href="https://paypal.me/">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal"/>
+    <img src="https://img.shields.io/badge/Donate-PayPal-4F8EF7?style=for-the-badge&logo=paypal&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- FOOTER -->
+<!-- FOOTER (MATCHING SMOOTH WAVE) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:00FFFF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9EC5FF,50:6FA4FF,100:4F8EF7&height=140&section=footer&animation=fadeIn" />
 </p>
