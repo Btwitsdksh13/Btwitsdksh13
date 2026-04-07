@@ -111,9 +111,11 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 </p>
 
 <p align="center">
-  <b>📈 Consistency > Motivation</b><br>
-  <sub>Every square = effort. Every day = progress.</sub>
+  <b>📈 Consistency beats motivation</b><br>
+  <sub>Every commit compounds. Every day counts.</sub>
 </p>
+
+---
 
 ## 📊 Developer Insights
 
