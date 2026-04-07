@@ -72,34 +72,26 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 
 # 💻 Tech Stack
 
-### 🚀 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
-</p>
+<p align="center">
 
-### ⚙️ Backend & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" />
-</p>
+<b>🚀 Languages</b><br>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js" /><br><br>
 
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind" />
-</p>
+<b>⚙️ Backend</b><br>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" /><br><br>
 
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" />
-</p>
+<b>🌐 Frontend</b><br>
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind" /><br><br>
 
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+<b>☁️ Cloud & DevOps</b><br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes" /><br><br>
 
-### 🧪 Tools
-<p>
+<b>🗄️ Databases</b><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br><br>
+
+<b>🧪 Tools</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,postman,jenkins" />
+
 </p>
 
 ---
