@@ -110,7 +110,10 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
   <img src="https://raw.githubusercontent.com/Btwitsdksh13/Btwitsdksh13/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
 
----
+<p align="center">
+  <b>📈 Consistency > Motivation</b><br>
+  <sub>Every square = effort. Every day = progress.</sub>
+</p>
 
 ## 📊 Developer Insights
 
