@@ -1,11 +1,11 @@
-<!-- 🔥 FUTURISTIC HEADER ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+System+Design+Enthusiast;Scaling+Products+for+Thousands+of+Users;Spring+Boot+%7C+APIs+%7C+Cloud+%7C+SEO+🚀" />
-</p>
+<!-- 🔥 BETTER HEADER (SMOOTH + CLEAN) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Daksh+Arora;Backend+Engineer+%7C+System+Design;Spring+Boot+%7C+APIs+%7C+Cloud+🚀;Scaling+Products+for+Thousands+of+Users" />
+</h1>
 
-<!-- 🌊 TOP WAVE -->
+<!-- 🌊 CLEAN WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=header"/>
 </p>
 
 # 💫 About Me:
@@ -56,7 +56,6 @@ A single backend or SEO tweak can impact **thousands of users** — that's what 
 
 ---
 
-<!-- 🔥 ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212897782-965815f5-5f8b-4bdb-b4a4-6f9c6c6b7b07.gif"/>
 
 ## 🌐 Connect With Me
@@ -120,25 +119,24 @@ A single backend or SEO tweak can impact **thousands of users** — that's what 
 
 ---
 
-<!-- 🔥 ANIMATED LINE -->
 <img src="https://user-images.githubusercontent.com/74038190/212897919-6f0b7b63-0c3d-4c8d-9c5a-3b5f3f1c2d4f.gif"/>
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Btwitsdksh13&theme=tokyonight&hide_border=true" height="170"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Btwitsdksh13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Btwitsdksh13&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsdksh13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Btwitsdksh13&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Btwitsdksh13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Btwitsdksh13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
@@ -150,9 +148,9 @@ A single backend or SEO tweak can impact **thousands of users** — that's what 
 
 ---
 
-<!-- 🔥 SNAKE ANIMATION -->
+<!-- 🔥 FIXED SNAKE -->
 <p align="center">
-  <img src="https://github.com/Btwitsdksh13/Btwitsdksh13/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Btwitsdksh13/Btwitsdksh13/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -173,7 +171,6 @@ A single backend or SEO tweak can impact **thousands of users** — that's what 
 
 ---
 
-<!-- 🌊 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer"/>
 </p>
