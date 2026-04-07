@@ -131,7 +131,27 @@ A single backend or SEO tweak can impact *thousands of users* 🚀
 
 ---
 
-<!-- 🔥 PREMIUM FOOTER -->
+<!-- 🌊 PREMIUM FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,50:2c5364,100:0f2027&height=180&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <b>⚡ Building Scalable Systems | 🚀 Backend Engineer | 💡 Problem Solver</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/btwitsdksh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/btwitsdksh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:daksharora1207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  💙 Thanks for visiting my profile — let’s build something impactful together!
 </p>
